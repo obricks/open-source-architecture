@@ -7,7 +7,14 @@ People that are :
 
 ### List of people
 
+#### Open source + Architecture 
+
 * **Alastair Parvin** : Founder of Wiki House
 * **Sébastien Lucas** : Founder  of Bricks, Architect [@sebastien_lucas](https://twitter.com/sebastien_lucas)
 * **Tatiana Bilbao** : Founder of Paper house.co
 * **Alain Renk** : Founder or wiki house..
+* 
+
+#### Open source, creative commons and collaboration
+
+* **[Lilian Ricaud](http://www.lilianricaud.com)** : Edit Tools and ressources (in french) to manage auto organized online communities [@lilious](https://twitter.com/lilious)
