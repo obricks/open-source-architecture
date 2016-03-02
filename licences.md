@@ -1,1 +1,3 @@
-# Type of licences that can be used for open source architecture
+### Licences type for open source architecture
+
+* [Creative commons](https://creativecommons.org) 
