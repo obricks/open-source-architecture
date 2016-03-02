@@ -22,7 +22,7 @@
 * [Creative roots](http://www.creativeroots.dk) : Danish collective urbanism group that organize workshops and interventions
 * [Open source ecology](https://twitter.com/OSEcology) : Construction kit for global village / Open source agriculture [@OSEcology](https://twitter.com/OSEcology)
 
-#### Not listed ? 
+#### [Not listed ? Add more info or change description ?](/not-listed.md) 
 
 Please submit your platform at sebastien@openbricks.io 
 To join this github repository or submit us a platform to add for you
