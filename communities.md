@@ -4,7 +4,7 @@
 
 ### Architecture, Urbanism, Design
 
-* [Bricks](http://www.openbricks.io) : Open source architecture platform to share architecture & design elements or projects
+* [Bricks](http://www.openbricks.io) : Open source architecture platform to share architecture & design elements or projects [@Bricks_App](https://twitter.com/Bricks_App)
 
 ### Architecture & Buildings
 
