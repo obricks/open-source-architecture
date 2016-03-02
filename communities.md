@@ -8,13 +8,13 @@
 
 ### Architecture & Buildings
 
-* [Wiki house](http://wikihouse.cc) : Open source houses built with CNC Milled plywood
+* [Wiki house](http://wikihouse.cc) : Open source houses and buiding system made with CNC Milled plywood.
 * [Paper House](http://paperhouses.co) : High quality design of complete house with open source licences 
 
 ### Design & Furniture
 
-* [Aker Kits](https://aker.me) : Open source gardening furniture
-* [Open Desk](https://www.opendesk.cc/) : Collection of open sourced furniture 
+* [Aker Kits](https://aker.me) : Open source garden furniture collection designed collaboratively.
+* [Open Desk](https://www.opendesk.cc/) : Collection of open sourced furniture that can be built with CNC machines.
 
 
 #### Urbanism & Landscape architecture
