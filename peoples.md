@@ -17,4 +17,4 @@ People that are :
 
 #### Open source, creative commons and collaboration
 
-* **[Lilian Ricaud](http://www.lilianricaud.com)** : Edit Tools and ressources (in french) to manage auto organized online communities [@lilious](https://twitter.com/lilious)
+* **[Lilian Ricaud](http://www.lilianricaud.com)** : Produce Tools and ressources (in french) to manage auto organized online communities [@lilious](https://twitter.com/lilious)
