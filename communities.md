@@ -1,7 +1,6 @@
 
 ### List of Open source communities & platforms
 
-
 ### Architecture, Urbanism, Design
 
 * [Bricks](http://www.openbricks.io) : Open source architecture platform to publish architecture & design projects under creative commons licences [@Bricks_App](https://twitter.com/Bricks_App)
@@ -22,7 +21,4 @@
 * [Creative roots](http://www.creativeroots.dk) : Danish collective urbanism group that organize workshops and interventions
 * [Open source ecology](https://twitter.com/OSEcology) : Construction kit for global village / Open source agriculture [@OSEcology](https://twitter.com/OSEcology)
 
-#### [Not listed ? Add more info or change description ?](/not-listed.md) 
-
-Please submit your platform at sebastien@openbricks.io 
-To join this github repository or submit us a platform to add for you
+##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
