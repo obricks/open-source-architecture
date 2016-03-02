@@ -1,6 +1,12 @@
-## People that are engaged to develop open source architecture or publish open source projects
+### People that make open source Architecture 
 
-* Alastair Parvin : Founder of Wiki House
-* Sébastien Lucas : Founder  of Bricks, Architect @sebastien_lucas
-* Pacheco : Founder of Paper house.co
-* Alain Renk : Founder or wiki house..
+People that are : 
+* engaged to develop open source architecture
+* publish open source projects
+* ...
+
+
+* **Alastair Parvin** : Founder of Wiki House
+* **Sébastien Lucas** : Founder  of Bricks, Architect [@sebastien_lucas](https://twitter.com/sebastien_lucas)
+* **Tatiana Bilbao** : Founder of Paper house.co
+* **Alain Renk** : Founder or wiki house..
