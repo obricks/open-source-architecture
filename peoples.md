@@ -5,6 +5,7 @@ People that are :
 * publish open source projects
 * ...
 
+### List of people
 
 * **Alastair Parvin** : Founder of Wiki House
 * **Sébastien Lucas** : Founder  of Bricks, Architect [@sebastien_lucas](https://twitter.com/sebastien_lucas)
