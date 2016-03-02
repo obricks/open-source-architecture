@@ -1,7 +1,7 @@
 
-### Communities
+### Communities, platforms
 
-* Wiki house : Wiki, open source houses in CNC Milled plywod
-* Aker Kits : Open source gardening furniture
-* Paper House : High quality design of complete house with open source licences 
-* Bricks : Platform tpublish open source architecture & design elements or projects
+* [Wiki house](http://wikihouse.cc) : Open source houses built with CNC Milled plywood
+* [Aker Kits](https://aker.me/) : Open source gardening furniture
+* [Paper House](http://paperhouses.co/) : High quality design of complete house with open source licences 
+* [Bricks](http://www.openbricks.io : Platform to publish open source architecture & design elements or projects
