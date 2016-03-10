@@ -14,6 +14,7 @@ People that are :
 * **Sébastien Lucas** : Founder  of Bricks, Architect [@sebastien_lucas](https://twitter.com/sebastien_lucas)
 * **Tatiana Bilbao** : Founder of Paper house.co
 * **Alain Renk** : Founder or wiki house..
+* **Carlo Ratti** : Author of the book [Open source Architecture](http://www.amazon.com/Open-Source-Architecture-Carlo-Ratti/dp/0500343063)
 
 #### Open source, creative commons and collaboration
 
