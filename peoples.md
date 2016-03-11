@@ -15,7 +15,7 @@ People that are :
 * **Tatiana Bilbao** : Founder of Paper house.co
 * **Alain Renk** : Founder or wiki house..
 * **Carlo Ratti** : Author of the book [Open source Architecture](http://www.amazon.com/Open-Source-Architecture-Carlo-Ratti/dp/0500343063)
-* **Christopher Reinhart** : Ressearcher on Open source  [@_chrisreinhart](https://twitter.com/_chrisreinhart)
+* **Christopher Reinhart** : Researcher on Open source  [@_chrisreinhart](https://twitter.com/_chrisreinhart)
 
 #### Open source, creative commons and collaboration
 
