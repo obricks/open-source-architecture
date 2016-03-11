@@ -21,6 +21,12 @@
 
 * [Creative roots](http://www.creativeroots.dk) : Danish collective urbanism group that organize workshops and interventions
 * [Open source ecology](https://twitter.com/OSEcology) : Construction kit for global village / Open source agriculture [@OSEcology](https://twitter.com/OSEcology)
+* 
+
+
+#### Energy 
+
+* [Urbolienne](http://www.oshwa.org/definition) : Small open source urban wind turbine
 
 
 ##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
