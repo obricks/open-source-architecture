@@ -21,5 +21,10 @@
 
 * [Creative roots](http://www.creativeroots.dk) : Danish collective urbanism group that organize workshops and interventions
 * [Open source ecology](https://twitter.com/OSEcology) : Construction kit for global village / Open source agriculture [@OSEcology](https://twitter.com/OSEcology)
+* 
+
+### Fab Labs / Maker spaces
+
+* [Maker mile](http://makermile.cc) a Listing of london maker spaces in the maker mile district
 
 ##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
