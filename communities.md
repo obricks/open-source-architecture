@@ -5,7 +5,7 @@
 
 * [Open Making](https://openmaking.is) : Commmunity site for makers, fablabs....
 * [Bricks](http://www.openbricks.io) : Open source architecture platform to publish architecture & design projects under creative commons licences [@Bricks_App](https://twitter.com/Bricks_App)
-* [Open architecture  http://www.openarchcollab.org/
+* [Open architecture Collaborative](http://www.openarchcollab.org) A new organisation for Architecture for humanity giving the power of open source architecture to local undeserved communities
 
 ### Architecture & Buildings
 
@@ -22,7 +22,6 @@
 
 * [Creative roots](http://www.creativeroots.dk) : Danish collective urbanism group that organize workshops and interventions
 * [Open source ecology](https://twitter.com/OSEcology) : Construction kit for global village / Open source agriculture [@OSEcology](https://twitter.com/OSEcology)
-* 
 
 
 #### Energy 
