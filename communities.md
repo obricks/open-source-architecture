@@ -5,7 +5,7 @@
 
 * [Open Making](https://openmaking.is) : Commmunity site for makers, fablabs....
 * [Bricks](http://www.openbricks.io) : Open source architecture platform to publish architecture & design projects under creative commons licences [@Bricks_App](https://twitter.com/Bricks_App)
-* [Open architecture Collaborative](http://www.openarchcollab.org) A new organisation for Architecture for humanity giving the power of open source architecture to local undeserved communities
+* [Open architecture Collaborative](http://www.openarchcollab.org) A new organisation for Architecture for humanity giving the benefits architecture to local undeserved communities
 
 ### Architecture & Buildings
 
