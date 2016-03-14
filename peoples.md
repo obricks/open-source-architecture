@@ -17,6 +17,10 @@ People that are :
 * **Carlo Ratti** : Author of the book [Open source Architecture](http://www.amazon.com/Open-Source-Architecture-Carlo-Ratti/dp/0500343063)
 * **Christopher Reinhart** : Researcher on Open source  [@_chrisreinhart](https://twitter.com/_chrisreinhart)
 
+### Open city + Urban commons 
+
+* https://twitter.com/Urban_Commons
+
 #### Open source, creative commons and collaboration
 
 * **[Lilian Ricaud](http://www.lilianricaud.com)** : Produce Tools and ressources (in french) to manage auto organized online communities [@lilious](https://twitter.com/lilious)
