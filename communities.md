@@ -23,6 +23,8 @@
 
 * [Creative roots](http://www.creativeroots.dk) : Danish collective urbanism group that organize workshops and interventions
 * [Open source ecology](https://twitter.com/OSEcology) : Construction kit for global village / Open source agriculture [@OSEcology](https://twitter.com/OSEcology)
+* [Ecosistema Urbano](http://ecosistemaurbano.com) : Group of spanish architects and urban designers that develop participatory design projects [@ecosistema](https://twitter.com/OSEcology)
+* [Collectif etc](http://www.collectifetc.com) French group based in Marseille that develop projects with the inhabitants.
 
 #### Energy 
 
@@ -33,5 +35,8 @@
 
 * [Parametric models](http://www.parametricmodel.com) : A collection of creative commons building parts for Rhino Grasshoper
 
+### More links 
+
+* [Collectif Etc links](http://www.collectifetc.com/liens/)
 
 ##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
