@@ -5,6 +5,8 @@
 * [Processing](https://github.com/processing/processing/commits/master)
 * [Grasshoper](http://www.grasshopper3d.com/)
 * http://beta.speckle.xyz : Allow to load a paramtric model from grasshoper and explore a change in variables
+* [Flux.io](https://flux.io/) allow to design eco friendly buildings and design directly in 3D, with collaboration and with parametric modifiers like in Rhino
+
 
 ### Group decision making, forums 
 
