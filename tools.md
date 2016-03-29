@@ -4,6 +4,7 @@
 
 * [Processing](https://github.com/processing/processing/commits/master)
 * [Grasshoper](http://www.grasshopper3d.com/)
+* http://beta.speckle.xyz : Allow to load a paramtric model from grasshoper and explore a change in variables
 
 ### Group decision making, forums 
 
