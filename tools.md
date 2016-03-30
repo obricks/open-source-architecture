@@ -11,6 +11,9 @@
 ### Group decision making, forums 
 
 * [Loomio](https://www.loomio.org) : Decision making tool, like a forum but with polls...Open source software it self built in Ruby
+* [Discourse](https://www.discourse.org/) : Ruby based new generation forum with open source code
+* [Slack](https://slack.com/) : Group chat that integrate with many web apps
+* [Trello](https://trello.com) Simple and efficient project management in Kanban style (post it like)
 
 ### On line 3D modeling
 
