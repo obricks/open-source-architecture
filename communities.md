@@ -26,6 +26,10 @@
 * [Ecosistema Urbano](http://ecosistemaurbano.com) : Group of spanish architects and urban designers that develop participatory design projects [@ecosistema](https://twitter.com/OSEcology)
 * [Collectif etc](http://www.collectifetc.com) French group based in Marseille that develop projects with the inhabitants.
 
+#### Agriculture 
+
+* [Atelier paysan](http://www.latelierpaysan.org) French collective that share do it yourself machines for agriculture (in a similar way than OSE)
+
 #### Energy 
 
 * [Urbolienne](http://www.oshwa.org/definition) : Small open source urban wind turbine
