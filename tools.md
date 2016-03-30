@@ -12,10 +12,15 @@
 
 * [Loomio](https://www.loomio.org) : Decision making tool, like a forum but with polls...Open source software it self built in Ruby
 
-### 3D in browser tools 
+### On line 3D modeling
 
 * https://cad.onshape.com
-* www.modelo.io
+* http://www.modelo.io
+* https://clara.io
+
+### On line 3D viewer
+
+* https://sketchfab.com/
 
 ### BIM software
 
