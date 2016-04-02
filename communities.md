@@ -23,8 +23,18 @@
 
 * [Creative roots](http://www.creativeroots.dk) : Danish collective urbanism group that organize workshops and interventions
 * [Open source ecology](https://twitter.com/OSEcology) : Construction kit for global village / Open source agriculture [@OSEcology](https://twitter.com/OSEcology)
+
+### Collaborative urbanism (implication of users....)
+
 * [Ecosistema Urbano](http://ecosistemaurbano.com) : Group of spanish architects and urban designers that develop participatory design projects [@ecosistema](https://twitter.com/OSEcology)
 * [Collectif etc](http://www.collectifetc.com) French group based in Marseille that develop projects with the inhabitants.
+* Ecosistema
+* Dreamhamar
+* Raumlabor
+* Bruit du frigo
+* cochenko
+* Compagnie des rêves urbains
+* Laboramdam
 
 #### Agriculture 
 
