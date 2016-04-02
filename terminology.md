@@ -12,6 +12,7 @@ We list here all the terms :
 * Co-design 
 * Participatory design
 * Social design
+* Tactical urbanism
 
 
 ##### [Suggest us a term?](/not-listed.md) 
