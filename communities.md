@@ -44,12 +44,17 @@
 
 * [Urbolienne](http://www.oshwa.org/definition) : Small open source urban wind turbine
 
-
 ### Parametric architecture 
 
 * [Parametric models](http://www.parametricmodel.com) : A collection of creative commons building parts for Rhino Grasshoper
 * [Blobitecture flickr group](https://www.flickr.com/groups/blobitecture) Group of architectes interested in generative / parametric architecture
 * [CO-DE-IT](http://www.co-de-it.com) Italian group of architects that share code of grasshoper, processing, rhinoscript, phyton, blender... code design
+
+### 3d printing
+
+* https://cults3d.com
+
+### DIY
 
 ### More links 
 
