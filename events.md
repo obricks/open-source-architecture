@@ -1,4 +1,8 @@
-### The events on open source architecture + collaborative design + parametrice + ...
+### The events on open source architecture 
+
++ collaborative design
++ parametric
++ Architecture & innovation
 
 * [Experimental Architectural Bienal](http://eabiennial.org) Bienal in Praha in 2016 about next development of architecture thanks to digital
 * [Future Architecture Night](http://www.futurearchitecture.org) Annual one night conference on the theme architecture + innovation in Paris next 15/06/2016
