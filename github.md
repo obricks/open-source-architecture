@@ -13,6 +13,7 @@ Here is a list of github account users that have relation with :
 * [open-source-architecture](https://github.com/open-source-architecture) Shared collaborative ressource on open source architecture
 * [essenlive](https://github.com/essenlive) Architect & developper that share a soft to publish CAD blocks
 * [paperHouses](https://github.com/PaperHouses) Paperhouses open source houses.
+* [DiatomStudio](https://github.com/DiatomStudio) Home of Sketch chair project, parametric sofware to design chairs and other CNC machine soft.
 
 *** 
 ##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
