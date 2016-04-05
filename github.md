@@ -12,3 +12,8 @@ Here is a list of github account users that have relation with :
 * [Bricks](https://github.com/bricksapp) Home of bricks projects
 * [open-source-architecture](https://github.com/open-source-architecture) Shared collaborative ressource on open source architecture
 * [essenlive](https://github.com/essenlive) Architect & developper that share a soft to publish CAD blocks
+* [paperHouses](https://github.com/PaperHouses) Paperhouses open source houses.
+
+*** 
+##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
+
