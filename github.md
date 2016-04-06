@@ -17,6 +17,9 @@ Here is a list of github account users that have relation with :
 * [paulharter](https://github.com/paulharter) Developer for some open desk project, amateur of minecraft
 * [opendesk](https://github.com/opendesk) Uk based group that develop open source furniture
 
+### Open source architecture project on github 
+* [Smartdesk](https://github.com/opendesk/smartdesk) A connected desk made by open desk team
+
 *** 
 ##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
 
