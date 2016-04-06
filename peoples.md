@@ -21,7 +21,8 @@ People that are :
 #### Open source + Design 
 
 * **Joni Steiner** : Co-founder / creative director of Open desk https://twitter.com/jonisteiner
- 
+* **Nick Ierodiaconou** : Co-founder of Open desk / https://twitter.com/nick_diaconou
+
 #### Open city + Urban commons 
 
 * https://twitter.com/Urban_Commons
