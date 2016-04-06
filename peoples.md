@@ -18,6 +18,10 @@ People that are :
 * **Christopher Reinhart** : Researcher on Open source  [@_chrisreinhart](https://twitter.com/_chrisreinhart)
 *  **Dimitrie A. Stefanescu** : Try to redefine the architectural design process as an emergent service of mass creativity http://dimitrie.org
 
+#### Open source + Design 
+
+* **Joni Steiner** : Co-founder / creative director of Open desk https://twitter.com/jonisteiner
+ 
 #### Open city + Urban commons 
 
 * https://twitter.com/Urban_Commons
