@@ -20,6 +20,9 @@ Here is a list of github account users that have relation with :
 ### Open source architecture project on github 
 * [Smartdesk](https://github.com/opendesk/smartdesk) A connected desk made by open desk team
 
+### 3D or architecture related libraries
+* [Speckle](https://github.com/didimitrie/future.speckle) Grasshoper preview
+* [three.js](https://github.com/mrdoob/three.js/) 3D libs in js
 *** 
 ##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
 
