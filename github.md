@@ -24,6 +24,8 @@ Here is a list of github account users that have relation with :
 ### 3D or architecture related libraries
 * [Speckle](https://github.com/didimitrie/future.speckle) Grasshoper preview
 * [three.js](https://github.com/mrdoob/three.js/) 3D libs in js
+* [babylon.js](http://www.babylonjs.com/) More easy to use and powerful 3D api on Web gl
+
 *** 
 ##### [Not listed ? Change description ? Want to contribute?](/not-listed.md) 
 
