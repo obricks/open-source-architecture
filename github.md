@@ -16,6 +16,7 @@ Here is a list of github account users that have relation with :
 * [DiatomStudio](https://github.com/DiatomStudio) Home of Sketch chair project, parametric sofware to design chairs and other CNC machine soft.
 * [paulharter](https://github.com/paulharter) Developer for some open desk project, amateur of minecraft
 * [opendesk](https://github.com/opendesk) Uk based group that develop open source furniture
+* [Pbeseda](https://github.com/pbeseda) Founder of found micro house project
 
 ### Open source architecture project on github 
 * [Smartdesk](https://github.com/opendesk/smartdesk) A connected desk made by open desk team
