@@ -25,6 +25,10 @@
 * [Creative roots](http://www.creativeroots.dk) : Danish collective urbanism group that organize workshops and interventions
 * [Open source ecology](https://twitter.com/OSEcology) : Construction kit for global village / Open source agriculture [@OSEcology](https://twitter.com/OSEcology)
 
+### Open source city / Open data city.
+
+* [OSCITY](http://www.oscity.eu) plaform to share maps, datas and visualisation based in holland
+
 ### Collaborative urbanism (implication of users....)
 
 * [Ecosistema Urbano](http://ecosistemaurbano.com) : Group of spanish architects and urban designers that develop participatory design projects [@ecosistema](https://twitter.com/OSEcology)
