@@ -56,7 +56,7 @@
 * https://cults3d.com
 * http://www.thingiverse.com/
 
-### Open source hardward, DIY
+### Open source hardware +  DIY platforms
 
 * https://www.cooking-hacks.com/
 * http://www.instructables.com/
