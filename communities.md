@@ -54,8 +54,12 @@
 ### 3d printing
 
 * https://cults3d.com
+* http://www.thingiverse.com/
 
-### DIY
+### Open source hardward, DIY
+
+* https://www.cooking-hacks.com/
+* http://www.instructables.com/
 
 ### More links 
 
