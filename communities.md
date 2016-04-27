@@ -56,6 +56,8 @@
 * [Blobitecture flickr group](https://www.flickr.com/groups/blobitecture) Group of architectes interested in generative / parametric architecture
 * [CO-DE-IT](http://www.co-de-it.com) Italian group of architects that share code of grasshoper, processing, rhinoscript, phyton, blender... code design
 
+### Open source materials 
+* Open source metal profile system http://www.openbeamusa.com https://twitter.com/OpenBeam
 ### 3d printing
 
 * https://cults3d.com
