@@ -67,6 +67,7 @@
 
 * https://www.cooking-hacks.com/
 * http://www.instructables.com/
+* https://www.ifixit.com/ Recipe on how to fix every thing
 
 ### More links 
 
