@@ -18,7 +18,7 @@
 
 * [Aker Kits](https://aker.me) : Open source garden furniture collection designed collaboratively.
 * [Open Desk](https://www.opendesk.cc/) : Collection of open sourced furniture that can be built with CNC machines.
-
+* [Plantbo](http://plantbot.io/) : Furniture with lighting to grow plants indoor.
 
 #### Urbanism & Landscape architecture
 
