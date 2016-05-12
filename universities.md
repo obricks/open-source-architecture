@@ -4,7 +4,7 @@
 ### Boston 
 
 * [MIT Center for bits and atoms](http://cba.mit.edu/) MIT ressearch center 
-
+* http://senseable.mit.edu 
 
 #### Paris 
 
