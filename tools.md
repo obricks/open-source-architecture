@@ -8,6 +8,10 @@
 * [Flux.io](https://flux.io/) allow to design eco friendly buildings and design directly in 3D, with collaboration and with parametric modifiers like in Rhino
 
 
+### Urbanism Tools 
+
+* [Street Mix](http://streetmix.net) Online tool to design street profile in a fun and easy way
+* 
 ### Group decision making, forums 
 
 * [Loomio](https://www.loomio.org) : Decision making tool, like a forum but with polls...Open source software it self built in Ruby
