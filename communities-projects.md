@@ -13,6 +13,9 @@
 * [Wiki house](http://wikihouse.cc) : Open source houses and buiding system made with CNC Milled plywood.
 * [Paper House](http://paperhouses.co) : High quality design of complete house with open source licences 
 * [Found House](http://foundhouse.cc) : Wiki house based micro house.
+* [Wikibuilding](http://wikibuilding.paris) : a building that is designed by its habitants, designed by a [collective of architects, ingeniors....](http://wikibuilding.paris/en/team/) and  for "Reinventer Paris" competition
+
+
 
 ### Design & Furniture
 
@@ -40,6 +43,7 @@
 * cochenko
 * Compagnie des rêves urbains
 * Laboramdam
+* [Umbrellium](http://umbrellium.co.uk/#initiatives) Collection of projects "to support citizen empowerment and high-impact engagement in cities"
 
 #### Agriculture 
 
@@ -49,6 +53,7 @@
 #### Energy 
 
 * [Urbolienne](http://www.oshwa.org/definition) : Small open source urban wind turbine
+* [POC 21](http://www.poc21.cc): A selection of 12 ecological projects all open sourced. This event took place in 2015 in Paris in the same year that the COP21 internation climate change negotiation in Paris.
 
 ### Parametric architecture 
 
@@ -58,6 +63,7 @@
 
 ### Open source materials 
 * Open source metal profile system http://www.openbeamusa.com https://twitter.com/OpenBeam
+
 ### 3d printing
 
 * https://cults3d.com
