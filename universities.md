@@ -1,6 +1,10 @@
 
 ### Universities / Labs
 
+### Barcelona 
+
+* [IAAC](http://iaac.net/) Institute of Advanced Architecture of Catalonia
+ 
 ### Boston 
 
 * [MIT Center for bits and atoms](http://cba.mit.edu/) MIT ressearch center 
