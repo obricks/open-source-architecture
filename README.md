@@ -14,3 +14,9 @@ Github repository are organized like your hard-drive : a list of files !
 If you want to join : 
 * Create a github account if you do not have 
 * Send me an email sebastien@openbricks.io / I will invite you
+
+Join also 
+* our [linkedin group](https://www.linkedin.com/groups/8487454)
+* our [meetup](http://www.meetup.com/fr-FR/collaborative-architecture)
+* and [Bricks, the Hub for open source architecture projects](http://www.openbricks.io)
+
