@@ -13,6 +13,7 @@
 #### Paris 
 
 * [Digital Knowledge](http://dk-digital-knowledge.com/studio) Paris Malaquais workshop about new methods of construction, architectural robotics, parametric architecture...
+* [ENSCI](http://www.ensci.com/) École nationale supérieure de création industrielle
 
 #### London 
 
