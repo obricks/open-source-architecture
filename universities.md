@@ -4,6 +4,7 @@
 ### Barcelona 
 
 * [IAAC](http://iaac.net/) Institute of Advanced Architecture of Catalonia
+* [FAB academy](http://www.fabacademy.org) Workshop to develop a product using fab labs technologies
  
 ### Boston 
 
