@@ -69,7 +69,10 @@
 * https://cults3d.com
 * http://www.thingiverse.com/
 
-### Open source hardware +  DIY platforms
+### Open Source Hardware 
+* http://www.oshwa.org/ Association for open source hardward
+
+### DIY platforms
 
 * https://www.cooking-hacks.com/
 * http://www.instructables.com/
