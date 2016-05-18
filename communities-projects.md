@@ -15,8 +15,6 @@
 * [Found House](http://foundhouse.cc) : Wiki house based micro house.
 * [Wikibuilding](http://wikibuilding.paris) : a building that is designed by its habitants, designed by a [collective of architects, ingeniors....](http://wikibuilding.paris/en/team/) and  for "Reinventer Paris" competition
 
-
-
 ### Design & Furniture
 
 * [Aker Kits](https://aker.me) : Open source garden furniture collection designed collaboratively.
@@ -49,7 +47,7 @@
 
 * [Atelier paysan](http://www.latelierpaysan.org) French collective that share do it yourself machines for agriculture (in a similar way than OSE)
 * [Open source Bee Hives](http://opensourcebeehives.net) To save the bees ! By the same group as aker kits
-
+* [Aqua pionneers](http://aquapioneers.io) https://github.com/GuillaumeGreenFabLab/Aquapioneers Aguaponics system
 #### Energy 
 
 * [Urbolienne](http://www.oshwa.org/definition) : Small open source urban wind turbine
