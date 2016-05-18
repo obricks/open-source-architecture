@@ -17,6 +17,7 @@ People that are :
 * **Carlo Ratti** : Author of the book [Open source Architecture](http://www.amazon.com/Open-Source-Architecture-Carlo-Ratti/dp/0500343063)
 * **Christopher Reinhart** : Researcher on Open source  [@_chrisreinhart](https://twitter.com/_chrisreinhart)
 *  **Dimitrie A. Stefanescu** : Try to redefine the architectural design process as an emergent service of mass creativity http://dimitrie.org
+*  **Vicente Guallart** : Former Chief Architect of Barcelona, Founder of IAAC. Guallart Architects [@vicenteguallart](https://twitter.com/vicenteguallart)
 
 #### Open source + Design 
 
