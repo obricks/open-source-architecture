@@ -24,6 +24,7 @@ Here is a list of github account users that have relation with :
 * [Smartdesk](https://github.com/opendesk/smartdesk) A connected desk made by open desk team
 * https://github.com/EddieOne/open-source-tiny-home
 * https://github.com/PaperHouses/Panorama_the-Bolt-house
+* https://github.com/GuillaumeGreenFabLab/Aquapioneers Aquaponic system (arduino).. 
 
 ### 3D or architecture related libraries
 * [Speckle](https://github.com/didimitrie/future.speckle) Grasshoper preview
