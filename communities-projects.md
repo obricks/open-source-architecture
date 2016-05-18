@@ -47,7 +47,8 @@
 
 * [Atelier paysan](http://www.latelierpaysan.org) French collective that share do it yourself machines for agriculture (in a similar way than OSE)
 * [Open source Bee Hives](http://opensourcebeehives.net) To save the bees ! By the same group as aker kits
-* [Aqua pionneers](http://aquapioneers.io) https://github.com/GuillaumeGreenFabLab/Aquapioneers Aguaponics system
+* [Aqua pionneers](http://aquapioneers.io) https://github.com/GuillaumeGreenFabLab/Aquapioneers Aquaponics open source system
+
 #### Energy 
 
 * [Urbolienne](http://www.oshwa.org/definition) : Small open source urban wind turbine
