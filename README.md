@@ -16,6 +16,7 @@ If you want to join :
 * Send me an email sebastien@openbricks.io / I will invite you
 
 Join also 
+* Our curated list of open source Video [Open source architecture video](https://www.youtube.com/playlist?list=PLkgRO_yjuU9qfuYps1aJMLYebDg3MK0QD)
 * our [linkedin group](https://www.linkedin.com/groups/8487454)
 * our [meetup](http://www.meetup.com/fr-FR/collaborative-architecture)
 * and [Bricks, the Hub for open source architecture projects](http://www.openbricks.io)
