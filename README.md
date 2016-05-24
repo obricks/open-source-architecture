@@ -1,19 +1,20 @@
-# Open Source Architecture Ressources
+# Open Source Architecture Resources
 
-This repository mean to centralize some ressources about open-source architecture and how to develop it.
-Feel free to join and add your organization and ressources. 
+This repository is meant to centralize resources about open source architecture and how to develop it.
+Feel free to join and add your organization and resources. 
 
-Open Source Architecture is a great idea, and need momentum.    
+Open Source Architecture is a great idea, and needs momentum.    
 The more people we are to move it forward, the more interesting it will be for us all.
 
 Start with the [list of open source architecture projects](https://github.com/open-source-architecture/open-source-architecture/blob/master/communities-projects.md)
 and explore the [other files](https://github.com/open-source-architecture/open-source-architecture).
 
-Github repository are organized like your hard-drive : a list of files !
+GitHub repositories are organized like your hard drive: a list of files!
 
 If you want to join : 
-* Create a github account if you do not have 
-* Send me an email sebastien@openbricks.io / I will invite you
+
+* Create a GitHub account if you do not have one
+* Send me an email at sebastien@openbricks.io / I will invite you
 
 Join also 
 * Our curated list of open source Video [Open source architecture video](https://www.youtube.com/playlist?list=PLkgRO_yjuU9qfuYps1aJMLYebDg3MK0QD)
