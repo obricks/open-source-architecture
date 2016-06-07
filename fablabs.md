@@ -3,6 +3,7 @@
 
 #### London 
 * [Maker mile](http://makermile.cc) a Listing of london maker spaces in the maker mile district
+* [Fab Pub](http://fab.pub/) A fab lab whose complete name is Fabrication Publique
 
 #### Barcelona 
 
