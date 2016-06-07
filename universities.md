@@ -18,8 +18,10 @@
 
 #### London 
 
-* [MDRL - London](http://drl.aaschool.ac.uk/) School of architecture with a clear focus on thechnology
 * [The barlett](http://www.bartlett.ucl.ac.uk/) London school of architcture 
+
+* [AA](http://www.aaschool.ac.uk/) Architectural Association / School of architecture (Private school)
+* [MDRL - London](http://drl.aaschool.ac.uk/) School of architecture with a clear focus on thechnology
 
 ### Think Tanks 
 
