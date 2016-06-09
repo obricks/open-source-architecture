@@ -21,6 +21,7 @@
 * [Open Desk](https://www.opendesk.cc/) : Collection of open sourced furniture that can be built with CNC machines.
 * [Plantbo](http://plantbot.io/) : Furniture with lighting to grow plants indoor.
 * [Maker Libraries](http://design.britishcouncil.org/projects/makerlibraries/) Collection of furniture open sourced
+* [James Tooze Open design](http://www.jamestooze.com/open-design/open-source-chair/) Desigs share by a british, fab lab active maker. 
 
 #### Urbanism & Landscape architecture
 
