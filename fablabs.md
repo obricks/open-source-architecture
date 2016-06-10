@@ -4,6 +4,8 @@
 #### London 
 * [Maker mile](http://makermile.cc) a Listing of london maker spaces in the maker mile district
 * [Fab Pub](http://fab.pub/) A fab lab whose complete name is Fabrication Publique
+* [Machine Rooms](http://machinesroom.org/) An active fab-lab in Maker Miles
+* [Lime Wharf](http://limewharf.org) A hub that group different companies relaties to fab labs... like Open desk in maker miles
 
 #### Barcelona 
 
