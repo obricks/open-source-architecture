@@ -7,6 +7,7 @@ Organisation about architecture that could be interested in the development of o
 
 * http://www.londonfestivalofarchitecture.org/ London festival of Architecture
 * http://architecturediary.org/ List of London based architecture association.
+* http://design.britishcouncil.org/projects/makerlibraries/ British concil Design section encourage innovative projects like maker libraries
 
 ### Mexico 
 
