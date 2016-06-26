@@ -34,8 +34,13 @@
 ### BIM software
 
 * http://www.jenca.org/
-
+* https://www.3drepo.io/ Revision System for BIM
 
 ### DIY, 3D printings Hub 
 
 * www.wikifab.org
+
+
+### Conversion tools 
+
+* http://cadsofttools.com/pdf-to-dwg-online/ Pdf to dwg
