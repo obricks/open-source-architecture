@@ -16,3 +16,8 @@ We list here all the terms :
 
 
 ##### [Suggest us a term?](/not-listed.md) 
+
+### Architecture, building terminology 
+
+* [Dictionary of Architecture and Building Construction](https://books.google.fr/books?id=krlTS0XWkLwC&dq=raised+floor+construction+dictionary&q=raised+floor#v=snippet&q=raised%20floor&f=false)
+* [Terminologic canadian dictionnary](http://www.granddictionnaire.com/Resultat.aspx) Good for precise translation between english and french
