@@ -44,3 +44,12 @@
 ### Conversion tools 
 
 * http://cadsofttools.com/pdf-to-dwg-online/ Pdf to dwg
+
+
+### Sketchup plugins and coding 
+
+* http://www.crai.archi.fr/rld/plugins_list_az.php
+
+
+### Grasshoper plugins and coding 
+
