@@ -26,10 +26,12 @@
 * http://www.modelo.io
 * https://clara.io
 
-### On line 3D viewer
+### On line 3D viewer / Platforms
 
 * https://sketchfab.com/
 * https://github.com/openfloorplan
+* http://www.123dapp.com / Made by autodesk for fab lab peoples
+* https://3dwarehouse.sketchup.com / The plateform to share skekchup files
 
 ### BIM software
 
