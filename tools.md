@@ -7,7 +7,7 @@
 * http://beta.speckle.xyz : Allow to load a paramtric model from grasshoper and explore a change in variables
 * [Flux.io](https://flux.io/) allow to design eco friendly buildings and design directly in 3D, with collaboration and with parametric modifiers like in Rhino
 
-### Drawing code libraries in javascript
+### Drawing libraries in javascript
 
 * [Maker.js](https://maker.js.org) Js library to draw geometry for CNC and laser cut machines
 * [P5js](https://p5js.org/learn/) Js library from processing to be used by artist or non programer to design parametrically.
