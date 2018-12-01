@@ -14,6 +14,7 @@
 * [Paper.js](http://paperjs.org) Js library to draw free forms in the web browser canvas thanks to code.
 * [Fabric.js](http://fabricjs.com/) js library to manipulate canvas with interaction, good to make interactive visual web app
 * [Three.js](https://github.com/mrdoob/three.js/) popular js library to make 3D scene in a browser
+* [Comparator](https://www.slant.co/versus/141/147/~paper-js_vs_p5-js) to choose your drawing library 
 
 ### Urbanism Tools 
 
