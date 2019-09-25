@@ -1,4 +1,4 @@
-# Licences type for open source architecture
+# Licences type
 
 * [Creative commons](https://creativecommons.org) 
 * [Open source Hardware](http://www.oshwa.org/definition/)

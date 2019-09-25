@@ -1,4 +1,4 @@
-# universities
+# Universities
 
 ## Universities / Labs
 

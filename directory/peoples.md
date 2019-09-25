@@ -1,4 +1,4 @@
-# peoples
+# People
 
 ## People that make open source Architecture
 

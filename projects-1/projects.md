@@ -1,4 +1,4 @@
-# projects
+# List of projects
 
 ## Open source architecture projects
 
