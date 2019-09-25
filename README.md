@@ -1,10 +1,11 @@
 # Open Source Architecture Wiki
 
-Visit the online version of Openbricks wiki [https://wiki.openbricks.io](https://wiki.openbricks.io/)
+Visit the online version of Open source architecture wiki [https://wiki.openbricks.io](https://wiki.openbricks.io/)
 
-This wiki aim is to gather resources about open source architecture. Feel free to add your resources with  github doing a pull request or sending me by email at hello@openbricks.io Open Source Architecture is a great idea, and needs momentum.
+This wiki aim is to gather resources about open source architecture. Feel free to add your resources with [github](https://github.com/sinsunsan/open-source-architecture) doing a pull request or sending me by email at hello@openbricks.io 
 
-  
+Open Source Architecture is a great idea, and needs momentum.
+
 The more people we are to move it forward, the more interesting it will be for us all
 
 Join also
